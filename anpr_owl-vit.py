@@ -1,7 +1,7 @@
 """
-    add this code to github repository  and try to suppress noise at the background
-    of image for processing it with tesseract OCR engine
-
+    license plate recognition using Open world localization - vision Transformer (OWL-ViT) by hugging face, a pre-trained model for 
+    detecting License plate in the given image. Furthermore, text in the detected region of llcense plate is recognized using a 
+    Tesseract Optical Character Recognition (OCR) engine.
 """
 
 import os
