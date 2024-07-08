@@ -8,14 +8,14 @@ Optical Character Recognition (OCR) engine by PyTesseract. Refer to the below im
   
 ![result](https://github.com/RajaAhsan97/Automatic-Number-Plate-Recognition-using-OWL-VIT-and-character-recognition-using-Pytesseract-OCR-/assets/155144523/ff409242-6536-4b7c-8921-65a64000df37)
 
-![Cars0](https://github.com/RajaAhsan97/Automatic-Number-Plate-Recognition-using-OWL-VIT-and-character-recognition-using-Pytesseract-OCR-/assets/155144523/57b98f94-5222-4f2d-af35-62cb867baed1)
+![Cars0](https://github.com/RajaAhsan97/Automatic-Number-Plate-Recognition-using-OWL-VIT-and-character-recognition-using-Pytesseract-OCR-/assets/155144523/7e6cf9a0-ce81-401b-9b79-eaae39011820)
 
 _____________________________________________________________________________________________________________________________________________________________________________________
 *    IMAGE 2
   
 ![result](https://github.com/RajaAhsan97/Automatic-Number-Plate-Recognition-using-OWL-VIT-and-character-recognition-using-Pytesseract-OCR-/assets/155144523/d175f239-c5b7-46f7-8324-c1ca29a1190f)
 
-![Cars1](https://github.com/RajaAhsan97/Automatic-Number-Plate-Recognition-using-OWL-VIT-and-character-recognition-using-Pytesseract-OCR-/assets/155144523/4a754574-be32-4a85-baeb-37601107a4b7)
+![Cars1](https://github.com/RajaAhsan97/Automatic-Number-Plate-Recognition-using-OWL-VIT-and-character-recognition-using-Pytesseract-OCR-/assets/155144523/85f3f29a-84e9-43ee-88ba-175765439887)
 
 
 From the results of image 1, it could be visualized that while OCRing the localized license plate region the character 'L' and 'C' is recognized as 'E' and 'O' by tesseract OCR engine. 
