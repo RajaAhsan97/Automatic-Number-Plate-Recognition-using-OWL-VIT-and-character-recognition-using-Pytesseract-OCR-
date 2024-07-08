@@ -5,12 +5,14 @@ results in detection of non-license plate regions. Whereas by using OWL-ViT only
 Optical Character Recognition (OCR) engine by PyTesseract. Refer to the below images to visualize the results, where the first image shows the license plate localization using conentional image processing techniques and the second image contains the localized license plate region using OWL-ViT.
 
 *    IMAGE 1
+  
 ![result](https://github.com/RajaAhsan97/Automatic-Number-Plate-Recognition-using-OWL-VIT-and-character-recognition-using-Pytesseract-OCR-/assets/155144523/ff409242-6536-4b7c-8921-65a64000df37)
 
 ![Cars0](https://github.com/RajaAhsan97/Automatic-Number-Plate-Recognition-using-OWL-VIT-and-character-recognition-using-Pytesseract-OCR-/assets/155144523/57b98f94-5222-4f2d-af35-62cb867baed1)
 
 _____________________________________________________________________________________________________________________________________________________________________________________
 *    IMAGE 2
+  
 ![result](https://github.com/RajaAhsan97/Automatic-Number-Plate-Recognition-using-OWL-VIT-and-character-recognition-using-Pytesseract-OCR-/assets/155144523/d175f239-c5b7-46f7-8324-c1ca29a1190f)
 
 ![Cars1](https://github.com/RajaAhsan97/Automatic-Number-Plate-Recognition-using-OWL-VIT-and-character-recognition-using-Pytesseract-OCR-/assets/155144523/4a754574-be32-4a85-baeb-37601107a4b7)
