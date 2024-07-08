@@ -1,3 +1,8 @@
+"""
+    This code utilized conventional image processing techniques to recognition license plate in the input image and processing it further 
+    to recognize text using Pytesseract OCR engine.
+"""
+
 import os
 import numpy as np
 import imutils
